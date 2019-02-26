@@ -1,0 +1,6 @@
+owner=486141054677155860
+prefix=2
+game=Creativity 2play
+stayinchannel=true
+songinstatus=false
+token=NTUwMDQxODI3MDQ3MTEyNzYz.D1cp4w.xwnS7b2cZAClT5j_1f1woxtDnJc
